@@ -1,0 +1,8 @@
+-Here's a 
+
+
+Issues I ran into:
+
+Issue 1) ES6 arrow functions syntax
+-You should've just used "return" for these {} brackets
+- () will only imply one element for .map(), so KEEP that in mind.
